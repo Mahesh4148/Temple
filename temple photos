@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><h1>Temple Photos</h1>
+<body>
+ <img src="./photos/WhatsApp Image 2025-03-27 at 14.01.25_6ea0c868.jpg" width="200px" height="300px"/>
+<img src="./photos/WhatsApp Image 2025-03-27 at 14.04.15_b13f4ef2.jpg" width="400px" height="300px"/>
+<img src="./photos/WhatsApp Image 2025-03-27 at 14.04.16_50f3c8bc.jpg" width="400px" height="300px"/>
+<img src="./photos/WhatsApp Image 2025-03-27 at 14.08.13_277521f7.jpg" width="200px" height="300px"/>
+<img src="./photos/WhatsApp Image 2025-03-27 at 14.08.14_8922b7f4.jpg" width="400px" height="300px"/>
+<img src="./photos/WhatsApp Image 2025-03-27 at 14.09.31_9f6b5f05.jpg" width="400px" height="300px"/>
+<img src="./photos/WhatsApp Image 2025-03-27 at 14.09.33_2a4f08e1.jpg" width="400px" height="300px"/>
+<img src="./photos/WhatsApp Image 2025-03-27 at 14.09.33_982a0c18.jpg" width="200px" height="300px"/>
+
+</body>
+</head>
+</html>
